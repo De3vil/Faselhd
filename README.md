@@ -37,16 +37,15 @@ It also provides a real-time progress bar (via rich) to track downloads and disp
 - **Automated Browser Session Management:**  
     Manages browser sessions automatically to ensure efficient handling of search and extraction tasks.
 
-<table>
-  <tr>
-    <td><img src="[src/1.jpg](https://github.com/De3vil/Faselhd/blob/main/scr/1.jpg)" alt="Image 1" width="300"/></td>
-    <td><img src="src/2.jpg" alt="Image 2" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="src/3.jpg" alt="Image 3" width="300"/></td>
-    <td><img src="src/14.jpg" alt="Image 4" width="300"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="src/1.jpg" width="200" alt="Image 1">
+  <img src="src/2.jpg" width="200" alt="Image 2">
+</p>
+<p align="center">
+  <img src="src/3.jpg" width="200" alt="Image 3">
+  <img src="src/4.jpg" width="200" alt="Image 4">
+</p>
+
 
 
 #### Requirements

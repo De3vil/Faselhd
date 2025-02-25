@@ -41,6 +41,7 @@ It also provides a real-time progress bar (via rich) to track downloads and disp
 
 
 #### Requirements
+* python >= 3.8 ++ Download [Python](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
 * python >= 3.9 ++ Download [Python]([https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe))
 
 * os : Windows

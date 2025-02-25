@@ -43,21 +43,21 @@ It also provides a real-time progress bar via `rich` to track downloads and disp
   <tr>
     <td align="center">
       <strong>1</strong><br>
-      <img src="https://github.com/De3vil/Faselhd/blob/main/scr/1.jpg" alt="Image 1" width="300">
+      <img src="https://github.com/De3vil/Faselhd/blob/main/scr/1.jpg" alt="Image 1" width="500">
     </td>
     <td align="center">
       <strong>2</strong><br>
-      <img src="https://github.com/De3vil/Faselhd/blob/main/scr/2.jpg" alt="Image 2" width="300">
+      <img src="https://github.com/De3vil/Faselhd/blob/main/scr/2.jpg" alt="Image 2" width="500">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>3</strong><br>
-      <img src="https://github.com/De3vil/Faselhd/blob/main/scr/3.jpg" alt="Image 3" width="300">
+      <img src="https://github.com/De3vil/Faselhd/blob/main/scr/3.jpg" alt="Image 3" width="500">
     </td>
     <td align="center">
       <strong>4</strong><br>
-      <img src="https://github.com/De3vil/Faselhd/blob/main/scr/4.jpg" alt="Image 4" width="300">
+      <img src="https://github.com/De3vil/Faselhd/blob/main/scr/4.jpg" alt="Image 4" width="500">
     </td>
   </tr>
 </table>

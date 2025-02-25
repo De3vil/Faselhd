@@ -40,7 +40,7 @@ It also provides a real-time progress bar via `rich` to track downloads and disp
 
 ### Screenshots
 <p align="center">
-  <img src="src/1.jpg" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/De3vil/Faselhd/blob/main/scr/1.jpg" alt="Screenshot 1" width="300"/>
   <img src="src/1.jpg" alt="Screenshot 2" width="300"/>
 </p>
 

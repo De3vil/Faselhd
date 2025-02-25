@@ -54,9 +54,8 @@ cd Faselhd
 pip install -r requirements.txt
 python nfshd.py
 ```
-## You can download a copy of the executable file and run it directly without having to install Python. From here [releases]([https://github.com/De3vil/KLogger/releases))
 
-
+* You can download a copy of the executable file and run it directly without having to install Python. From here, [releases](https://github.com/De3vil/KLogger/releases)
 
 
 

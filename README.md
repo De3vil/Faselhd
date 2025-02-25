@@ -38,6 +38,13 @@ It also provides a real-time progress bar via `rich` to track downloads and disp
 - **Automated Browser Session Management:**  
     Manages browser sessions automatically to ensure efficient handling of search and extraction tasks.
 
+### Screenshots
+<p align="center">
+  <img src="src/1.jpg" alt="Screenshot 1" width="300"/>
+  <img src="src/1.jpg" alt="Screenshot 2" width="300"/>
+</p>
+
+
 
 ### Installation:
 

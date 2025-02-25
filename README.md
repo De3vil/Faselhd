@@ -38,11 +38,11 @@ It also provides a real-time progress bar (via rich) to track downloads and disp
     Manages browser sessions automatically to ensure efficient handling of search and extraction tasks.
 
 
-![](src/AV.png) ![](src/1.png)
 
 
 #### Requirements
 * python >= 3.9 ++ Download [Python]([https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe))
+
 * os : Windows
 
 ### Installation to Windows:

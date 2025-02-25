@@ -39,7 +39,7 @@ It also provides a real-time progress bar (via rich) to track downloads and disp
 
 <table>
   <tr>
-    <td><img src="src/1.jpg" alt="Image 1" width="300"/></td>
+    <td><img src="[src/1.jpg](https://github.com/De3vil/Faselhd/blob/main/scr/1.jpg)" alt="Image 1" width="300"/></td>
     <td><img src="src/2.jpg" alt="Image 2" width="300"/></td>
   </tr>
   <tr>

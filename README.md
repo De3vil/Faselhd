@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
-  <br>
   <img src="https://github.com/De3vil/Faselhd/raw/main/scr/icon.ico" width="100">
+  <br>
   Faselhd
   <br>  
 </h1>

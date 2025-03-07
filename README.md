@@ -2,7 +2,7 @@
   <br>
   <img src="https://github.com/De3vil/Faselhd/raw/main/scr/icon.ico" width="100">
   <br>
-  Faselhd
+  FaselHD
   <br>  
 </h1>
 <p align="center">

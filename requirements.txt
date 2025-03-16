@@ -1,0 +1,7 @@
+setuptools
+beautifulsoup4
+bs4
+playwright
+rich
+subprocess.run
+m3u8downloader
